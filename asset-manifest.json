@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cityView-Router/static/css/main.0bcff3d2.css",
+    "main.js": "/cityView-Router/static/js/main.337bfd50.js",
+    "index.html": "/cityView-Router/index.html",
+    "main.0bcff3d2.css.map": "/cityView-Router/static/css/main.0bcff3d2.css.map",
+    "main.337bfd50.js.map": "/cityView-Router/static/js/main.337bfd50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bcff3d2.css",
+    "static/js/main.337bfd50.js"
+  ]
+}
